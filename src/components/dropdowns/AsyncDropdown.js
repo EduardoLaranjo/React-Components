@@ -1,6 +1,7 @@
+
 import React, {Component} from 'react';
 
-class Dropdown extends Component {
+class AsyncDropdown extends Component {
 
   state = [
     {key: 0, value: ''},
@@ -26,4 +27,4 @@ class Dropdown extends Component {
   }
 }
 
-export default Dropdown;
+export default AsyncDropdown;
