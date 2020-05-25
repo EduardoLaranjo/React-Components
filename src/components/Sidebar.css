@@ -1,0 +1,6 @@
+.sidebar-container {
+    width: 30vw;
+    height: 100vh;
+    display: block;
+    border: black solid medium;
+}
